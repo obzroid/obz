@@ -59,9 +59,12 @@
 
   아래와 같은 예제가 정상적으로 주석 처리 및 해제 되는지 확인
 
-//	@SQL_START
+//	@SQL_START 
+
 //		ssss
+
 //		ddddd
+
 //	@SQL_END
 	
 	fsdfsdfs
@@ -72,8 +75,11 @@
 	fsdfsd
 
 //	@PSQL_START
+
 //		ssss
+
 //		ddddd
+
 //	@PSQL_END
   
   
