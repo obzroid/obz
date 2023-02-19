@@ -59,28 +59,22 @@
 
   아래와 같은 예제가 정상적으로 주석 처리 및 해제 되는지 확인
 
-//	@SQL_START 
-
-//		ssss
-
-//		ddddd
-
-//	@SQL_END
+//	@SQL_START <br />
+//		ssss <br />
+//		ddddd <br />
+//	@SQL_END <br />
 	
-	fsdfsdfs
-	fdsfsd
+fsdfsdfs
+fdsfsd
 	
-	fdsfsdf
+fdsfsdf
 	
-	fsdfsd
+fsdfsd
 
-//	@PSQL_START
-
-//		ssss
-
-//		ddddd
-
-//	@PSQL_END
+//	@PSQL_START <br />
+//		ssss <br />
+//		ddddd <br />
+//	@PSQL_END <br />
   
   
   
